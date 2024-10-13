@@ -60,7 +60,7 @@ The project went from something with barely any interactivity, bad OOP due to la
 
 The artifact is the same as in the previous enhancement. It’s a 2D-graphical program from cs330 computer visualization course, then further enhanced in my former enhancement. After enhancement, it went from a simple 2d graphical program into an interactive brick-breaking game implemented using classes like Brick, Circle (representing the ball), and Paddle
 
-[Click here to view the full narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/Narrative-2.docx)
+[Click here to view the full narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narrative-2.docx)
 
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/enhanced)
