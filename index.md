@@ -32,7 +32,7 @@ The basis of my code review focuses on three critical elements:
 The artifact is an enhanced version of a project from the CS330 Computer Visualizations course. Originally created as part of my coursework. 
 it's a graphics programming project using OpenGL and GLFW to render dynamic graphical elements such as circles (balls), bricks. My enhancement includes a user-controlled controlled paddle, which adds interactivity to the game as well as improving the codebase OOP design. This significantly expands on the original coursework.
 
-[Click here to view the full narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactOne/Narrative-1.docx)
+[Software Engineering & Design Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Software%20engineering%20%26%20Design%20Narrative.docx)
 
 ### Original Artifact
 - [Original Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactOne/original)
@@ -60,7 +60,7 @@ The project went from something with barely any interactivity, bad OOP due to la
 
 The artifact is the same as in the previous enhancement. It’s a 2D-graphical program from cs330 computer visualization course, then further enhanced in my former enhancement. After enhancement, it went from a simple 2d graphical program into an interactive brick-breaking game implemented using classes like Brick, Circle (representing the ball), and Paddle
 
-[Click here to view the full narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/Narrative-2.docx)
+[Algorithms and Data Structures Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/enhanced)
@@ -79,4 +79,13 @@ The project became a truly procedurally generated game, with multiple levels, di
 
 ## Artifact 3: Databases
 
-not yet uploaded
+## Introduction
+
+The Artifact is an android weight tracker app I made for CS360 course. Users are able to set a weight goal, enter daily weight as well as view last 7 days of data. There is also an interactive web-interface.
+Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:8050/ by default
+[Database Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Database%20Narrative.docx)
+### Enhanced Artifact
+- [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/enhanced)
+
+![Current Enhancement](./images/ArtifactThree.png)
+*Figure 4 - A randomally generated brick layout
