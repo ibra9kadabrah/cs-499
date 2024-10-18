@@ -60,7 +60,11 @@ The project went from something with barely any interactivity, bad OOP due to la
 
 The artifact is the same as in the previous enhancement. It’s a 2D-graphical program from cs330 computer visualization course, then further enhanced in my former enhancement. After enhancement, it went from a simple 2d graphical program into an interactive brick-breaking game implemented using classes like Brick, Circle (representing the ball), and Paddle
 
+<<<<<<< HEAD
 [Algorithms and Data Structures Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Algorithms%20and%20Data%20Structures%20Narrative.docx)
+=======
+[Click here to view the full narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narrative-2.docx)
+>>>>>>> 8759e8ef58950adc3df2c5a68e42e1cf485d06ee
 
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/enhanced)
@@ -79,6 +83,7 @@ The project became a truly procedurally generated game, with multiple levels, di
 
 ## Artifact 3: Databases
 
+<<<<<<< HEAD
 ## Introduction
 
 The Artifact is an android weight tracker app I made for CS360 course. Users are able to set a weight goal, enter daily weight as well as view last 7 days of data. There is also an interactive web-interface.
@@ -89,3 +94,6 @@ Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:805
 
 ![Current Enhancement](./images/ArtifactThree.png)
 *Figure 4 - A randomally generated brick layout
+=======
+not yet uploaded
+>>>>>>> 8759e8ef58950adc3df2c5a68e42e1cf485d06ee
