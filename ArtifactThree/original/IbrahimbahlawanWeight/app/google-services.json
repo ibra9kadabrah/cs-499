@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365918780427",
+    "project_id": "weight-tracker-ae746",
+    "storage_bucket": "weight-tracker-ae746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365918780427:android:eb7dd939c5ead067e69b0e",
+        "android_client_info": {
+          "package_name": "com.example.ibrahim_bahlawan_weight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjeA_Nts2DLRg_eFsIzM8RJ2OKX38f78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

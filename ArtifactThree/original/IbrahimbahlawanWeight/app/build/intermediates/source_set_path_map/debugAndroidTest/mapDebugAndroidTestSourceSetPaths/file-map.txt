@@ -1,0 +1,6 @@
+com.example.ibrahim_bahlawan_weight.test.app-annotation-experimental-1.4.0-0 C:\Users\ibrab\.gradle\caches\transforms-4\33515d6d464bfce60e0edc3e1a5b0199\transformed\annotation-experimental-1.4.0\res
+com.example.ibrahim_bahlawan_weight.test.app-core-1.5.0-1 C:\Users\ibrab\.gradle\caches\transforms-4\f6df640e2636f590beefe87d342bd8ba\transformed\core-1.5.0\res
+com.example.ibrahim_bahlawan_weight.test.app-androidTest-2 C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\build\generated\res\resValues\androidTest\debug
+com.example.ibrahim_bahlawan_weight.test.app-mergeDebugAndroidTestResources-3 C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.ibrahim_bahlawan_weight.test.app-mergeDebugAndroidTestResources-4 C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.ibrahim_bahlawan_weight.test.app-debugAndroidTest-5 C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

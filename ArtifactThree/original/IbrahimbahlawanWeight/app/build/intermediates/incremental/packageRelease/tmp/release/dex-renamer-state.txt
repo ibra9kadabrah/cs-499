@@ -1,0 +1,4 @@
+#Mon Jun 24 02:47:33 TRT 2024
+base.0=C\:\\Users\\ibrab\\AndroidStudioProjects\\IbrahimbahlawanWeight\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

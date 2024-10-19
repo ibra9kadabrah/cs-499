@@ -1,0 +1,3 @@
+com.example.ibrahim_bahlawan_weight.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

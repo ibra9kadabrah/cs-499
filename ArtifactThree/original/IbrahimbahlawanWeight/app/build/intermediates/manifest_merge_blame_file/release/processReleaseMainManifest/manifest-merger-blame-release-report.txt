@@ -1,0 +1,170 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ibrahim_bahlawan_weight"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="34"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.SEND_SMS" />
+11-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+12-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:6:5-70
+12-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:6:22-67
+13    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+13-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:7:5-75
+13-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:7:22-72
+14
+15    <uses-feature android:name="android.hardware.telephony" />
+15-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:9:5-63
+15-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:9:19-60
+16
+17    <permission
+17-->[androidx.core:core:1.13.0] C:\Users\ibrab\.gradle\caches\transforms-4\ccf2e66660382c1e5a7b3480cf7f1b9f\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.example.ibrahim_bahlawan_weight.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.13.0] C:\Users\ibrab\.gradle\caches\transforms-4\ccf2e66660382c1e5a7b3480cf7f1b9f\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.13.0] C:\Users\ibrab\.gradle\caches\transforms-4\ccf2e66660382c1e5a7b3480cf7f1b9f\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.example.ibrahim_bahlawan_weight.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.13.0] C:\Users\ibrab\.gradle\caches\transforms-4\ccf2e66660382c1e5a7b3480cf7f1b9f\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.13.0] C:\Users\ibrab\.gradle\caches\transforms-4\ccf2e66660382c1e5a7b3480cf7f1b9f\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:11:5-49:19
+24        android:allowBackup="true"
+24-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:12:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.13.0] C:\Users\ibrab\.gradle\caches\transforms-4\ccf2e66660382c1e5a7b3480cf7f1b9f\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+26        android:extractNativeLibs="false"
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:13:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:14:9-41
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:15:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:16:9-35
+31        android:theme="@style/Theme.IbrahimbahlawanWeight" >
+31-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:17:9-59
+32        <activity
+32-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:20:9-22:39
+33            android:name="com.example.ibrahim_bahlawan_weight.SignupActivity"
+33-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:21:13-43
+34            android:exported="true" />
+34-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:22:13-36
+35        <activity
+35-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:24:9-31:20
+36            android:name="com.example.ibrahim_bahlawan_weight.LoginActivity"
+36-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:25:13-42
+37            android:exported="true" >
+37-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:26:13-36
+38            <intent-filter>
+38-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:27:13-30:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:28:17-69
+39-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:28:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:29:17-77
+41-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:29:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:33:9-35:39
+45            android:name="com.example.ibrahim_bahlawan_weight.MainActivity"
+45-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:34:13-41
+46            android:exported="true" />
+46-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:35:13-36
+47        <activity
+47-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:37:9-39:39
+48            android:name="com.example.ibrahim_bahlawan_weight.WeightEntryActivity"
+48-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:38:13-48
+49            android:exported="true" />
+49-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:39:13-36
+50
+51        <receiver
+51-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:42:9-46:20
+52            android:name="com.example.ibrahim_bahlawan_weight.SmsReceiver"
+52-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:42:19-46
+53            android:exported="true" >
+53-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:42:47-70
+54            <intent-filter>
+54-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:43:13-45:29
+55                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+55-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:44:17-82
+55-->C:\Users\ibrab\AndroidStudioProjects\IbrahimbahlawanWeight\app\src\main\AndroidManifest.xml:44:25-79
+56            </intent-filter>
+57        </receiver>
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.ibrahim_bahlawan_weight.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ibrab\.gradle\caches\transforms-4\4ab620ce18ae2b706eb6a86c1555acc5\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ibrab\.gradle\caches\transforms-4\43e21287b588112df61623047eccd2f2\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ibrab\.gradle\caches\transforms-4\43e21287b588112df61623047eccd2f2\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ibrab\.gradle\caches\transforms-4\43e21287b588112df61623047eccd2f2\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+70                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+71                android:value="androidx.startup" />
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+72        </provider>
+73
+74        <receiver
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+75            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+76            android:directBootAware="false"
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+77            android:enabled="true"
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+78            android:exported="true"
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+79            android:permission="android.permission.DUMP" >
+79-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+80            <intent-filter>
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+81                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+82            </intent-filter>
+83            <intent-filter>
+83-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+84                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+85            </intent-filter>
+86            <intent-filter>
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+87                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+88            </intent-filter>
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+90                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\ibrab\.gradle\caches\transforms-4\3b310b257e062b3bdfdeed261346bb57\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+91            </intent-filter>
+92        </receiver>
+93    </application>
+94
+95</manifest>
