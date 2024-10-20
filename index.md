@@ -1,8 +1,8 @@
 # CS-499 Capstone ePortfolio
 
-## Professional assesment
-
 [Professional Assessment](#professional-assessment)  |  [Artifact One](#artifact-1-software-engineering-and-design)  |  [Artifact Two](#artifact-2-algorithms-and-data-structure)  |  [Artifact Three](#artifact-3-databases)
+
+## Professional assesment
 
 I began my educational journey at Southern New Hampshire University (SNHU) in January 2023, after taking time off from my previous university to prioritize my mental health. I have been passionate about computers ever since I was a child and have always loved tinkering with them. My passion for computers is the main reason I decided to pursue a bachelor's degree in computer science, with the added goal of pursuing a master’s degree to further my education in this field. I am particularly passionate about graphics, game development, and simulations, which I hope to contribute to in my advanced education and career. During my studies, I not only learned technical skills but also experienced significant personal growth.
 
@@ -53,7 +53,7 @@ The basis of my code review focuses on three critical elements:
 The artifact is an enhanced version of a project from the CS330 Computer Visualizations course. Originally created as part of my coursework. 
 it's a graphics programming project using OpenGL and GLFW to render dynamic graphical elements such as circles (balls), bricks. My enhancement includes a user-controlled controlled paddle, which adds interactivity to the game as well as improving the codebase OOP design. This significantly expands on the original coursework. The main focus was on enhancing the software engineering and design aspect, I restructured the game's codebase by improving modularity, maintainability.
 
-[Software Engineering & Design Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Software%20engineering%20%26%20Design%20Narrative.docx)
+[Software Engineering & Design Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Software%20engineering%20%26%20Design%20Narrative.pdf)
 
 ### Original Artifact
 - [Original Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactOne/original)
@@ -81,7 +81,7 @@ The project went from something with barely any interactivity, bad OOP due to la
 
 The artifact is the same as in the previous enhancement. It’s a 2D-graphical program from cs330 computer visualization course, then further enhanced in my former enhancement. After enhancement, it went from a simple 2d graphical program into an interactive brick-breaking game implemented using classes like Brick, Circle (representing the ball), and Paddle. this time focusing on the algorithms and data structures powering the game, by implementing more accurate collision detection while still being performative, extending the data structures used and overall improving the game's responsiveness.
 
-[Algorithms and Data Structures Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Algorithms%20and%20Data%20Structures%20Narrative.docx)
+[Algorithms and Data Structures Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Algorithms%20and%20Data%20Structures%20Narrative.pdf)
 
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactTwo/enhanced)
@@ -108,7 +108,7 @@ python and jupyter for data analysis and visualizations in the interface
 Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:8050/ by default
 
 
-[Database Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Database%20Narrative.docx)
+[Database Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Database%20Narrative.pdf)
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactThree/enhanced)
 
@@ -121,5 +121,3 @@ Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:805
 ### Conclusion
 
 With this enhancement, the weight tracker app, went from an app that used a simple sqllite databaes to using firebase firestore. It also used plain text local authnetication, while now it uses firebase authentication with encryption in storage and in flight. I also added a user interface so you can view users weight, weight changes, as well as weight trends over time. This was a comprehensive experience as it required native android development and web-development skills.
-
-[Professional Assessment](#professional-assessment)  |  [Artifact One](#artifact-1-software-engineering-and-design)  |  [Artifact Two](#artifact-2-algorithms-and-data-structure)  |  [Artifact Three](#artifact-3-databases)
