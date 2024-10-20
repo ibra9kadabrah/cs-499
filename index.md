@@ -89,7 +89,7 @@ The artifact is the same as in the previous enhancement. It’s a 2D-graphical p
 *Figure 4 - A randomally generated brick layout
 
 ![Current Enhancement](./images/ArtifactTwo-lvl2.png)
-*Figure 4 - A randomally generated brick layout Level 2
+*Figure 5 - A randomally generated brick layout Level 2
 
 ### Conclusion
 
@@ -110,6 +110,11 @@ Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:805
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactThree/enhanced)
 
+![Current Enhancement](./images/ArtifactThree.png)
+*Figure 6- web interface
+
+![Current Enhancement](./images/ArtifactThree-app.png)
+*Figure 7 - App interface
 
 ### Conclusion
 
