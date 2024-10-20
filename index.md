@@ -4,7 +4,8 @@
 
 I began my educational journey at Southern New Hampshire University (SNHU) in January 2023, after taking time off from my previous university to prioritize my mental health. I have been passionate about computers ever since I was a child and have always loved tinkering with them. My passion for computers is the main reason I decided to pursue a bachelor's degree in computer science, with the added goal of pursuing a master’s degree to further my education in this field. I am particularly passionate about graphics, game development, and simulations, which I hope to contribute to in my advanced education and career. During my studies, I not only learned technical skills but also experienced significant personal growth.
 
-    “What a computer is to me is it's the most remarkable tool that we've ever come up with, and it's the equivalent of a bicycle for our minds.” — Steve Jobs
+    > “What a computer is to me is it's the most remarkable tool that we've
+    > ever come up with, and it's the equivalent of a bicycle for our minds.” — > Steve Jobs
 
 At SNHU, I developed important skills such as researching and citing sources, organizing my thoughts into structured arguments, and developing time management skills—especially crucial since I was handling double the course load for most of my terms.
 
