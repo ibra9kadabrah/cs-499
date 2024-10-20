@@ -1,22 +1,22 @@
 # CS-499 Capstone ePortfolio
 
 ## Professional assesment
-I began my educational journey at Southern New Hampshire University (SNHU) in January 2023, after taking time off from my previous university to prioritize my mental health. I have been passionate about computers ever since I was a child and always loved to tinker with them. My passion for computers is the main reason I decided to pursue a bachelor's degree in computer science with the added goal of pursuing a masters degree to further my education in this field. I am mainly passionate about graphics, game development, and simulations, which I hope to contribute to in my advanced education and career. During my studies, I did not just learn technical skills, but also learned about personal growth.
 
-“What a computer is to me is it's the most remarkable tool that we've ever come up with, and it's the equivalent of a bicycle for our minds.” — Steve Jobs
+I began my educational journey at Southern New Hampshire University (SNHU) in January 2023, after taking time off from my previous university to prioritize my mental health. I have been passionate about computers ever since I was a child and have always loved tinkering with them. My passion for computers is the main reason I decided to pursue a bachelor's degree in computer science, with the added goal of pursuing a master’s degree to further my education in this field. I am particularly passionate about graphics, game development, and simulations, which I hope to contribute to in my advanced education and career. During my studies, I not only learned technical skills but also experienced significant personal growth.
 
-During my time at SNHU, I've learned important skills as researching and citing sources, organizing my thoughts into a structured argument, and developing time management skills, which are even more important in my case since I was doing double the course load for most of my terms.
+    “What a computer is to me is it's the most remarkable tool that we've ever come up with, and it's the equivalent of a bicycle for our minds.” — Steve Jobs
 
-Through my coursework such as CS-360 app development, I learned about native android development, which was overwhelming at first since it was a new architecture, new development enviornment and so on. I learned the importance of adhering to design guidlines, since different android phones have different hardware and software specs. Thankfully my prior experience with java, which I learned in a different SNHU course, was quite helpful. Another course Of note is CS-310 collaborative development, in which we worked as a class on a single project, where we had to learn how to merge, solve conflicts, and pass a code review. I believe this course gave me a glimpse into a real-world work scenario, with collaboration between teams in an async manner, which will be beneficial in professional enviornment. This course was more practical than other courses, which I enjoyed quite a bit. 
+At SNHU, I developed important skills such as researching and citing sources, organizing my thoughts into structured arguments, and developing time management skills—especially crucial since I was handling double the course load for most of my terms.
 
-Another course is CS-330 Computational graphics, taught me the principles of graphics, with an emphasis on modelling, lighting and shaders. This is the sort of work I am passionate, yet it was still challenging. It required that I quickly learn OpenGL to solve the various hurdles in order to implement my projects. OpenGL is an established graphics API, but quite difficult, and learning it in order to deliver on my projects was a quite valuable, both for my career and future aspirations. I used one of this course's project for my enhancements below, which required I implement a more realistic collision-detection algorithim with performance in mind.
- 
-Lastly, CS465 Full-Stack Development course showed my the improtance of System architecture in web development, how choosing the right tech stack (like the MEAN stack) all have a direct impact on a programs's performance and security, for example how different architectures will require different authentication implementations. This course aslo required that I showcase my understanding in detail of the various intericate details of the project, by writing an extensive paper on its design, as well as create various diagrams to demonstrate my understanding.
+Through coursework like CS-360 (App Development), I learned about native Android development. At first, this was overwhelming due to the new architecture, development environment, and other complexities. I also learned the importance of adhering to design guidelines, given that different Android phones have varied hardware and software specs. Fortunately, my prior experience with Java, which I gained in another SNHU course, was quite helpful. Another notable course was CS-310 (Collaborative Development), where we worked as a class on a single project, learning how to merge code, resolve conflicts, and pass code reviews. This course gave me a glimpse into real-world work scenarios, with asynchronous collaboration between teams, a skill that will be invaluable in a professional environment. I particularly enjoyed the practical nature of this course.
 
-During my time at SNHU, I believe I have improved my problem-solving skills, learning abilitiy (which I consider to be a seperate skill), all while being under time constraint, while also being an honor student. I also developed a security mindset, and a strong understanding of testing, in order to pass my coursework, as well as learning how important these factors are when a project grows in complexity. I have also gained an understanding of graphics, advanced web-development with a focus on architecture as well as learning HTML/CSS/JS/Java(Spring), and finally an understanding of operating systems and its various functions like system calls, assembly, systems architecture and developing with c/c++.
+Another course, CS-330 (Computational Graphics), taught me the principles of graphics, focusing on modeling, lighting, and shaders. This is the type of work I am passionate about, though it was still challenging. It required me to quickly learn OpenGL to overcome various hurdles and implement my projects. OpenGL, while an established graphics API, is quite difficult to master, but learning it to deliver my projects was incredibly valuable for both my career and future aspirations. I used one of the projects from this course for my enhancements below, where I implemented a more realistic collision-detection algorithm with performance in mind.
 
-I hope my portfolio, showcases my hardwork at SNHU. I aim to pursue higher education with a focus on graphics, simulation modelling, and I believe the skills I have learned here at SNHU, as well my eportfolio, Will help me in that pursuit.
+Lastly, the CS-465 (Full-Stack Development) course highlighted the importance of system architecture in web development, and how choosing the right tech stack (such as the MEAN stack) can directly impact a program’s performance and security. For example, different architectures require different authentication implementations. This course also required me to showcase my detailed understanding of the project's intricacies by writing an extensive design paper and creating various diagrams to demonstrate my understanding.
 
+During my time at SNHU, I believe I have improved my problem-solving skills and my ability to learn quickly—skills I consider separate but equally important. Despite the time constraints, I managed to maintain honor student status. I also developed a security mindset and a strong understanding of testing, both of which are critical as a project grows in complexity. In addition, I gained knowledge in graphics, advanced web development with a focus on architecture, as well as HTML, CSS, JavaScript, Java (Spring), and operating systems, including system calls, assembly, system architecture, and development with C/C++.
+
+I hope my portfolio showcases my hard work at SNHU. I aim to pursue higher education with a focus on graphics and simulation modeling, and I believe the skills I have learned at SNHU, as well as my ePortfolio, will help me in that pursuit
 
 ## Course Outcomes
 
@@ -48,7 +48,7 @@ The basis of my code review focuses on three critical elements:
 ### Introduction
 
 The artifact is an enhanced version of a project from the CS330 Computer Visualizations course. Originally created as part of my coursework. 
-it's a graphics programming project using OpenGL and GLFW to render dynamic graphical elements such as circles (balls), bricks. My enhancement includes a user-controlled controlled paddle, which adds interactivity to the game as well as improving the codebase OOP design. This significantly expands on the original coursework.
+it's a graphics programming project using OpenGL and GLFW to render dynamic graphical elements such as circles (balls), bricks. My enhancement includes a user-controlled controlled paddle, which adds interactivity to the game as well as improving the codebase OOP design. This significantly expands on the original coursework. The main focus was on enhancing the software engineering and design aspect, I restructured the game's codebase by improving modularity, maintainability.
 
 [Software Engineering & Design Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Software%20engineering%20%26%20Design%20Narrative.docx)
 
@@ -70,13 +70,13 @@ it's a graphics programming project using OpenGL and GLFW to render dynamic grap
 
 ### Conclusion
 
-The project went from something with barely any interactivity, bad OOP due to lack of encapsulation, primitive collision detection, to having a user controlled object, a lose condition, a more realistic collision detection system as well as better maintainability.
+The project went from something with barely any interactivity, bad OOP due to lack of encapsulation, primitive collision detection, to having a user controlled object, a lose condition, a more realistic collision detection system as well as better maintainability. This revision made the game not only more maintainable but also positioned it for easier future enhancements. Even silly games can benefit from better software engineering practices :)
 
 ## Artifact 2: Algorithms and Data Structure
 
 ### Introduction
 
-The artifact is the same as in the previous enhancement. It’s a 2D-graphical program from cs330 computer visualization course, then further enhanced in my former enhancement. After enhancement, it went from a simple 2d graphical program into an interactive brick-breaking game implemented using classes like Brick, Circle (representing the ball), and Paddle
+The artifact is the same as in the previous enhancement. It’s a 2D-graphical program from cs330 computer visualization course, then further enhanced in my former enhancement. After enhancement, it went from a simple 2d graphical program into an interactive brick-breaking game implemented using classes like Brick, Circle (representing the ball), and Paddle. this time focusing on the algorithms and data structures powering the game, by implementing more accurate collision detection while still being performative, extending the data structures used and overall improving the game's responsiveness.
 
 [Algorithms and Data Structures Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
@@ -92,15 +92,19 @@ The artifact is the same as in the previous enhancement. It’s a 2D-graphical p
 
 ### Conclusion
 
-The project became a truly procedurally generated game, with multiple levels, difficulty adjuster, record keeping, significantly enhanced algorithms, more complex, new data structures as well as improvements to collision detection accuracy and performance. This was a very enjoyable experience as well as a great learning opportunity
+The project became a truly procedurally generated game, with multiple levels, difficulty adjuster, record keeping, significantly enhanced algorithms, more complex, new data structures as well as improvements to collision detection accuracy and performance. This was a very enjoyable experience as well as a great learning opportunity. For this phase of the project I had to consider computational cost of my code. Improving the algorithms and data structures not only optimized the game's performance but also showed how careful selection of these elements can greatly impact the user experience
 
 
 ## Artifact 3: Databases
 
 ## Introduction
 
-The Artifact is an android weight tracker app I made for CS360 course. Users are able to set a weight goal, enter daily weight as well as view last 7 days of data. There is also an interactive web-interface.
+The Artifact is an android weight tracker app I made for CS360 course. Users are able to set a weight goal, enter daily weight as well as view last 7 days of data. There is also an interactive web-interface where you can see top weight losers, and weight trends. This project is a comprehensive project that needed work with both front-end and back-end technologies, It required the use of a modern cloud-based backend like firebase, java for front-end, JSON, as well
+python and jupyter for data analysis and visualizations in the interface
+
 Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:8050/ by default
+
+
 [Database Narrative](https://github.com/ibra9kadabrah/cs-499/tree/main/Narratives/Database%20Narrative.docx)
 ### Enhanced Artifact
 - [Final Build Files](https://github.com/ibra9kadabrah/cs-499/tree/main/ArtifactThree/enhanced)
@@ -108,4 +112,4 @@ Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:805
 
 ### Conclusion
 
-With this enhancement, the weight tracker app, went from an app that used a simple sqllite databaes to using firebase firestore. It also used plain text local authnetication, while now it uses firebase authentication with encryption in storage and in flight. I also added a user interface so you can view users weight, weight changes, as well as weight trends over time.
+With this enhancement, the weight tracker app, went from an app that used a simple sqllite databaes to using firebase firestore. It also used plain text local authnetication, while now it uses firebase authentication with encryption in storage and in flight. I also added a user interface so you can view users weight, weight changes, as well as weight trends over time. This was a comprehensive experience as it required native android development and web-development skills.
