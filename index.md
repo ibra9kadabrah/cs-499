@@ -2,7 +2,7 @@
 
 ## Professional assesment
 
-[Professional Assessment](#professional-assessment) | [Artifact One](#artifact-1-software-engineering-and-design) | [Artifact Two](#artifact-2-algorithms-and-data-structure) | [Artifact Three](#artifact-3-databases)
+[Professional Assessment](#professional-assessment)  |  [Artifact One](#artifact-1-software-engineering-and-design)  |  [Artifact Two](#artifact-2-algorithms-and-data-structure)  |  [Artifact Three](#artifact-3-databases)
 
 I began my educational journey at Southern New Hampshire University (SNHU) in January 2023, after taking time off from my previous university to prioritize my mental health. I have been passionate about computers ever since I was a child and have always loved tinkering with them. My passion for computers is the main reason I decided to pursue a bachelor's degree in computer science, with the added goal of pursuing a master’s degree to further my education in this field. I am particularly passionate about graphics, game development, and simulations, which I hope to contribute to in my advanced education and career. During my studies, I not only learned technical skills but also experienced significant personal growth.
 
@@ -121,3 +121,5 @@ Use Juypter to interact with web-interface. It is hosted on http://127.0.0.1:805
 ### Conclusion
 
 With this enhancement, the weight tracker app, went from an app that used a simple sqllite databaes to using firebase firestore. It also used plain text local authnetication, while now it uses firebase authentication with encryption in storage and in flight. I also added a user interface so you can view users weight, weight changes, as well as weight trends over time. This was a comprehensive experience as it required native android development and web-development skills.
+
+[Professional Assessment](#professional-assessment)  |  [Artifact One](#artifact-1-software-engineering-and-design)  |  [Artifact Two](#artifact-2-algorithms-and-data-structure)  |  [Artifact Three](#artifact-3-databases)
